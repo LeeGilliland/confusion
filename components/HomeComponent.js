@@ -33,7 +33,7 @@ class Home extends Component {
         this.state = {
             dishes: DISHES,
             promotions: PROMOTIONS,
-          leaders: LEADERS
+            leaders: LEADERS
         };
     }
 
